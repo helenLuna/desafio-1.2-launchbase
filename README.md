@@ -1,8 +1,15 @@
-<h1>
+<h1 align="center">
     <img src="https://ik.imagekit.io/nfua0vgzjv/launchbase_DATGKYlxH.png" width="400px">
 </h1>
 
 <h3 align="center"><b>Desafio 1-2: Lidando com objetos e vetores</b></h3>
+
+## Índice
+- [Sobre](#-sobre)
+- [Construção e impressão de objetos](#-construção-e-impressão-de-objetos)
+- [Vetores e objetos](#-vetores-e-objetos)
+
+---
 
 ## 📖 **Sobre**
 
